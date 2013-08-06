@@ -4,7 +4,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>First Prototype Script</title>
         <script src="//ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"></script>
-        <script type ="text/javascript" src = "scripts/polymorphism.js"></script>
+        <script type ="text/javascript" src = "scripts/main.js"></script>
         
     </head>
     <body>
@@ -19,6 +19,7 @@
           <div class ="my_information">
               <span>My favorite color is blue.</span>
           </div>
+          <button id ="change_color">change dom color</button>
       </div>
     </body>
 </html>
